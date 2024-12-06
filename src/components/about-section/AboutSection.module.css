@@ -1,0 +1,31 @@
+.about{
+    width: 100%;
+    background-color: var(--background-light-gray);
+    padding: 10rem 3.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.aboutLeftDiv{
+    width: 40.70%;
+}
+.aboutLeftDiv h1{
+    font-size: 3rem;
+    line-height: 4.5rem;
+    margin-bottom: .5rem;
+}
+.aboutLeftDiv p{
+    font-size:1.875rem ;
+    line-height:2.25rem;
+    color: var(--logo-color);
+}
+.detailsText{
+    font-size: 16.88px;
+    line-height: 27px;
+    color: white;
+    margin-top: 23.5008px;
+    margin-bottom: 32.5008px;
+}
+.aboutRightDiv{
+    margin-right: 11.875rem;
+}
